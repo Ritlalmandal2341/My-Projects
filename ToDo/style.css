@@ -6,8 +6,8 @@
 html, body{
     height: 100%;
     width: 100%;
-    background-color: #1a1a1a;
-    color: #c0bbbb;
+    background-color: #f7f5f5;
+    color: #100101;
 }
 #container{
     display: flex;
